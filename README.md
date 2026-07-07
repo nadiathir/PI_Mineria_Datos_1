@@ -15,8 +15,8 @@
 
 ## Enlaces públicos
 
-* [Repositorio público de GitHub](https://github.com/LeandroConstantinidi/PI_Mineria_Datos_1)
-* [Aplicación pública en Streamlit](https://pi-mineria-datos-constantinidi-thir-2026.streamlit.app/)
+* [Repositorio público de GitHub](https://github.com/nadiathir/PI_Mineria_Datos_1)
+* [Aplicación pública en Streamlit](https://pi-mineria-datos-thir-constantinidi-2026.streamlit.app/)
 * [Informe final en PDF](reports/informe_final.pdf)
 * [Registro del proceso ETL](logs/pipeline_log.csv)
 
@@ -130,14 +130,14 @@ La aplicación pública permite consultar:
 
 Acceso público:
 
-[Aplicación en Streamlit Cloud](https://pi-mineria-datos-constantinidi-thir-2026.streamlit.app/)
+[Aplicación en Streamlit Cloud](https://pi-mineria-datos-thir-constantinidi-2026.streamlit.app/)
 
 ## Cómo ejecutar la aplicación localmente
 
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/LeandroConstantinidi/PI_Mineria_Datos_1.git
+git clone https://github.com/nadiathir/PI_Mineria_Datos_1.git
 cd PI_Mineria_Datos_1
 ```
 
@@ -194,7 +194,7 @@ Ctrl + C
 
 El README funciona como guía de navegación y reproducción del proyecto. Los resultados y sus interpretaciones deben consultarse en los siguientes entregables:
 
-* [Aplicación pública en Streamlit](https://pi-mineria-datos-constantinidi-thir-2026.streamlit.app/)
+* [Aplicación pública en Streamlit](https://pi-mineria-datos-thir-constantinidi-2026.streamlit.app/)
 * [`03_eda.ipynb`](notebooks/03_eda.ipynb)
 * [`04_pca.ipynb`](notebooks/04_pca.ipynb)
 * [`05_conclusiones.ipynb`](notebooks/05_conclusiones.ipynb)
