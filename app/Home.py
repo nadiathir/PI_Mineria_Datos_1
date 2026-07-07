@@ -21,15 +21,15 @@ DATA_PATH = (
 )
 
 
-# Enlaces públicos
+# Enlaces públicos de Nadia
 GITHUB_URL = (
     "https://github.com/"
-    "LeandroConstantinidi/PI_Mineria_Datos_1"
+    "nadiathir/PI_Mineria_Datos_1"
 )
 
 STREAMLIT_URL = (
     "https://pi-mineria-datos-"
-    "constantinidi-thir-2026.streamlit.app/"
+    "thir-constantinidi-2026.streamlit.app/"
 )
 
 
